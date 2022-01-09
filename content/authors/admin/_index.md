@@ -14,31 +14,32 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/m_sapx
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=NRexaeMAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/matej-%C5%A1apina-90272896/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Medical faculty Osijek
+    url: http://www.mefos.unios.hr/index.php/hr/
+  - name: Faculty of Dental Medicine and Health
+    url: http://www.fdmz.hr/index.php/hr/
+  - name: University hospital Osijek
+    url: https://www.kbco.hr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Biomedical sciences
+      institution: Medical faculty Osijek
+      year: 2019
+    - course: MD
+      institution: Medical faculty Osijek
+      year: 2013
+email: sapina.matej@yahoo.com
 superuser: true
 highlight_name: true
 ---
