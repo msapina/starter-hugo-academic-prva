@@ -5,7 +5,9 @@ avatar_filename: avatar.jpg
 bio: A personal blog for science education, clinical biostatistics, clinical
   epidemiology and clinical research posts.
 interests:
-  - "#biostatistics #clinicalepidemiology #clinicalreasoning"
+  - "biostatistics"
+  - "clinical epidemiology"
+  - - "clinical reasoning"
 social:
   - icon: envelope
     icon_pack: fas
