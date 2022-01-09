@@ -5,9 +5,7 @@ avatar_filename: 120432235_10222265638482803_5472759184010070069_n.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - "#biostatistics #clinicalepidemiology #clinicalreasoning"
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,9 +16,6 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=NRexaeMAAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/matej-%C5%A1apina-90272896/
@@ -44,8 +39,11 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+dr.sc. Matej Šapina, dr.med. je liječnik i znanstvenik s posebnim entuzijazmom za edukaciju iz metodologije klinčkih istraživanja. Područje djelovanja mu je pedijatrija, a znanstveni interesi široki. Sudjeluje u nastavi iz pedijatrije, predaje medicinsku statistiku i metodologiju istraživanja. Primarni fokus znanstvenog djelovanja mu je analiza bioloških signala, razvoj autonomnog živčanog sustava, klinička biostatistika i klinička epidemiologija. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ova stranica je zamišljena kao svojevrsni blog, nadopuna knjigama u nastanku iz područja kliničke biostatike i metodologije znanstvenog istraživanja u biomedicini. Motivacija je objavljivanje materijala za studente, a otvoreni pristup omogućuje svima koje nešto više zanima da se informiraju i educiraju. 
+
+Teme o kojima se piše su najviše iz područja planiranja i dizajniranja kliničkih 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
