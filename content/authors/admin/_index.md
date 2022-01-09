@@ -1,7 +1,7 @@
 ---
 title: Matej Šapina
 role: MD, PhD
-avatar_filename: https://scontent.fzag1-2.fna.fbcdn.net/v/t39.30808-6/262819396_10225215160699015_8305490672639062449_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=OmLQC2dQNuwAX-OMWxQ&_nc_ht=scontent.fzag1-2.fna&oh=00_AT95oT9QJPs3_PfhapI28A8kTVvSiLkV6RJVX9I-M5_1Kg&oe=61DF662F
+avatar_filename: avatar.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
