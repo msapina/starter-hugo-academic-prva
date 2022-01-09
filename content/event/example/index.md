@@ -10,11 +10,11 @@ abstract: >-
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-title: International Medis Awards 2021
-location: Ljubljana
+title: International Medis Awards for Medical Research 2021
+location: Ljubljana, Slovenia
 date: 2021-11-25T16:00:00.000Z
 date_end: 2021-11-25T17:00:00.000Z
-all_day: false
+all_day: true
 event: International Medis Awards 2021 - Winner
 event_url: https://www.medis-awards.com/finalists-winners/detail/finalist/matej-sapina/
 featured: false
