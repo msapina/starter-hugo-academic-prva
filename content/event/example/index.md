@@ -7,13 +7,13 @@ abstract: >-
   throughout the region.
 
   The award ceremonies take place every year in a different host country. Until now the awards were presented in Belgrade, Ljubljana, Sarajevo and Zagreb.
-slides: example
+slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: International Medis Awards 2021
 location: Ljubljana
-date: 2021-11-25T14:00:00.000Z
-date_end: 2021-11-25T14:00:00.000Z
+date: 2021-11-25T16:00:00.000Z
+date_end: 2021-11-25T17:00:00.000Z
 all_day: true
 event: International Medis Awards 2021 - Winner
 event_url: https://www.medis-awards.com/finalists-winners/detail/finalist/matej-sapina/
