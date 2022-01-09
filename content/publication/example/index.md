@@ -19,9 +19,7 @@ authors:
   - Jelusic M.
 author_notes: []
 publication: Pediatric Rheumatol. 2020;18:P303. (CC)
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -36,7 +34,7 @@ categories:
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
 date: 2013-07-01T00:00:00Z
