@@ -7,7 +7,7 @@ bio: A personal blog for science education, clinical biostatistics, clinical
 interests:
   - "biostatistics"
   - "clinical epidemiology"
-  - - "clinical reasoning"
+  - "clinical reasoning"
 social:
   - icon: envelope
     icon_pack: fas
