@@ -14,7 +14,7 @@ title: International Medis Awards 2021
 location: Ljubljana
 date: 2021-11-25T16:00:00.000Z
 date_end: 2021-11-25T17:00:00.000Z
-all_day: true
+all_day: false
 event: International Medis Awards 2021 - Winner
 event_url: https://www.medis-awards.com/finalists-winners/detail/finalist/matej-sapina/
 featured: false
@@ -37,15 +37,3 @@ image:
   filename: featured.jpg
 url_code: ""
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
