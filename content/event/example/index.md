@@ -21,12 +21,7 @@ featured: false
 authors: []
 url_video: ""
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+address: []
 links: []
 publishDate: 2022-01-09T20:52:53.815Z
 tags: []
