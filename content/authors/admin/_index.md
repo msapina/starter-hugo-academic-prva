@@ -2,8 +2,8 @@
 title: Matej Šapina
 role: MD, PhD
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: A personal blog for science education, clinical biostatistics, clinical
+  epidemiology and clinical research posts.
 interests:
   - "#biostatistics #clinicalepidemiology #clinicalreasoning"
 social:
@@ -43,7 +43,7 @@ dr.sc. Matej Šapina, dr.med. je liječnik i znanstvenik s posebnim entuzijazmom
 
 Ova stranica je zamišljena kao svojevrsni blog, nadopuna knjigama u nastanku iz područja kliničke biostatike i metodologije znanstvenog istraživanja u biomedicini. Motivacija je objavljivanje materijala za studente, a otvoreni pristup omogućuje svima koje nešto više zanima da se informiraju i educiraju. 
 
-Teme o kojima se piše su najviše iz područja planiranja i dizajniranja kliničkih 
+Teme o kojima se piše su najviše iz područja planiranja i dizajniranja kliničkih istraživanja. Na domaćem jeziku, jer toga nedostaje.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
