@@ -4,14 +4,14 @@ url_pdf: ""
 title: Histološki, klinički, laboratorijski i genski prediktori ishoda bolesnika
   s Henoch-Schönleinovom purpurom i nefritisom (PURPURAPREDICTORS
   IP-2019-04-8822)
-summary: An example of using the in-built project page.
+summary: ""
 url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: ""
 url_slides: ""
 subtitle: "Voditelj: prof.dr.sc. Marija Jelušić"
 tags:
-  - Deep Learning
+  - IgAvaskulitis
 links:
   - icon: twitter
     icon_pack: fab
