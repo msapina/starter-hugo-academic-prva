@@ -34,7 +34,7 @@ projects: []
 image:
   caption: ""
   focal_point: Right
-  filename: https://scontent.fzag1-2.fna.fbcdn.net/v/t39.30808-6/261316070_10225165070006779_6591370571449781477_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=cG2AhfpRrE4AX8V81WC&_nc_ht=scontent.fzag1-2.fna&oh=00_AT-reObj1RarbDKgYOhnNuLdzC3sNMnsbn2tMhzUo3obUg&oe=61E064DC
+  filename: featured.jpg
 url_code: ""
 ---
 
