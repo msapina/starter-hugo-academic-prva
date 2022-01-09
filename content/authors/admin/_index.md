@@ -43,6 +43,6 @@ dr.sc. Matej Šapina, dr.med. je liječnik i znanstvenik s posebnim entuzijazmom
 
 I zbog toga je nastala ova stranica - zamišljena kao svojevrsni blog, nadopuna knjigama u nastanku iz područja kliničke biostatike i metodologije znanstvenog istraživanja u biomedicini. Motivacija je objavljivanje materijala za studente, a otvoreni pristup omogućuje svima koje nešto više zanima da se informiraju i educiraju. 
 
-Teme o kojima se piše su najviše iz područja planiranja i dizajniranja kliničkih istraživanja. Zalomi se i pokoje djelo o filozofiji znanosti, for reasons. Na domaćem jeziku, jer toga nedostaje.
+Teme o kojima se piše su najviše iz područja planiranja i dizajniranja kliničkih istraživanja. Zalomi se i pokoje djelo o filozofiji znanosti. For reasons. Na domaćem jeziku, jer toga nedostaje.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
