@@ -4,7 +4,7 @@ url_pdf: ""
 title: Histološki, klinički, laboratorijski i genski prediktori ishoda bolesnika
   s Henoch-Schönleinovom purpurom i nefritisom (PURPURAPREDICTORS
   IP-2019-04-8822)
-summary: ""
+summary: "Voditelj: prof.dr.sc. Marija Jelušić"
 url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: ""
