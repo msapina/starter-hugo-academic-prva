@@ -1,63 +1,41 @@
 ---
-title: Example Talk
+abstract: >-
+  The International Medis Awards for Medical Research is an annual international
+  contest for medical doctors and pharmacists who have published medical
+  research in a specific medical field in a highly ranked scientific publication
+  and are daily actively involved in clinical practice in institutions
+  throughout the region.
 
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+  The award ceremonies take place every year in a different host country. Until now the awards were presented in Belgrade, Ljubljana, Sarajevo and Zagreb.
+slides: example
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+title: International Medis Awards 2021
+location: Ljubljana
+date: 2021-11-25T14:00:00.000Z
+date_end: 2021-11-25T14:00:00.000Z
+all_day: true
+event: International Medis Awards 2021 - Winner
+event_url: https://www.medis-awards.com/finalists-winners/detail/finalist/matej-sapina/
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
+links: []
+publishDate: 2022-01-09T20:52:53.815Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ""
   focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  filename: https://scontent.fzag1-2.fna.fbcdn.net/v/t39.30808-6/261316070_10225165070006779_6591370571449781477_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=cG2AhfpRrE4AX8V81WC&_nc_ht=scontent.fzag1-2.fna&oh=00_AT-reObj1RarbDKgYOhnNuLdzC3sNMnsbn2tMhzUo3obUg&oe=61E064DC
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-- example
 ---
 
 {{% callout note %}}
