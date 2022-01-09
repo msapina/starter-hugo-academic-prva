@@ -39,11 +39,10 @@ superuser: true
 highlight_name: true
 ---
 
-dr.sc. Matej Šapina, dr.med. je liječnik i znanstvenik s posebnim entuzijazmom za edukacijom iz metodologije klinčkih istraživanja. Područje djelovanja mu je pedijatrija, a znanstveni interesi široki. Sudjeluje u nastavi iz pedijatrije, predaje medicinsku statistiku i metodologiju istraživanja. Primarni fokus znanstvenog djelovanja mu je analiza bioloških signala, razvoj autonomnog živčanog sustava, klinička biostatistika i klinička epidemiologija. 
+dr.sc. Matej Šapina, dr.med. je liječnik i znanstvenik s posebnim entuzijazmom za edukacijom iz metodologije klinčkih istraživanja. Područje djelovanja mu je pedijatrija, a znanstveni interesi široki. Sudjeluje u nastavi iz pedijatrije, predaje medicinsku statistiku i metodologiju istraživanja. Primarni fokus znanstvenog djelovanja mu je analiza bioloških signala, razvoj autonomnog živčanog sustava, klinička biostatistika i klinička epidemiologija. Zabavlja ga pisanje o statistici i metodologiji istraživanja. Pristrani je Bayesianist.
 
-Ova stranica je zamišljena kao svojevrsni blog, nadopuna knjigama u nastanku iz područja kliničke biostatike i metodologije znanstvenog istraživanja u biomedicini. Motivacija je objavljivanje materijala za studente, a otvoreni pristup omogućuje svima koje nešto više zanima da se informiraju i educiraju. 
+I zbog toga je nastala ova stranica - zamišljena kao svojevrsni blog, nadopuna knjigama u nastanku iz područja kliničke biostatike i metodologije znanstvenog istraživanja u biomedicini. Motivacija je objavljivanje materijala za studente, a otvoreni pristup omogućuje svima koje nešto više zanima da se informiraju i educiraju. 
 
-Teme o kojima se piše su najviše iz područja planiranja i dizajniranja kliničkih istraživanja. Na domaćem jeziku, jer toga nedostaje.
-
+Teme o kojima se piše su najviše iz područja planiranja i dizajniranja kliničkih istraživanja. Zalomi se i pokoje djelo o filozofiji znanosti, for reasons. Na domaćem jeziku, jer toga nedostaje.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
