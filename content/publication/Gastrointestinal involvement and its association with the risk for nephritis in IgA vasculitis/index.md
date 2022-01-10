@@ -1,5 +1,3 @@
-Sestan M, Kifer N, Frkovic M, Sapina M, Srsen S, Batnozic Varga M, Ovuka A, Held M, Gudelj Gracanin A, Kozmar A, Bulimbasic S. Gastrointestinal involvement and its association with the risk for nephritis in IgA vasculitis. 
-
 ---
 title: " Gastrointestinal involvement and its association with the risk for nephritis in IgA vasculitis "
 publication_types:
