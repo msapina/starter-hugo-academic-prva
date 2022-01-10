@@ -9,7 +9,7 @@ authors:
   - Garcin Matthieu
   - Adelson David
   - Milas Krešimir
-  - Pirić marko
+  - Pirić Marko
   - Brdaric Dario
   - Yearwood John
 doi: https://doi.org/10.1098/rsif.2018.0420
