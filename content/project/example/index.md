@@ -11,7 +11,7 @@ external_link: ""
 url_slides: ""
 subtitle: "Voditelj: prof.dr.sc. Marija Jelušić"
 tags:
-  - IgAvaskulitis
+  - IgAV
 links: []
 image:
   caption: ""
