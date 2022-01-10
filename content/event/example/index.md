@@ -9,8 +9,8 @@ abstract: >-
   The award ceremonies take place every year in a different host country. Until now the awards were presented in Belgrade, Ljubljana, Sarajevo and Zagreb.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
-title: International Medis Awards for Medical Research 2021
+summary: International Medis Awards for Medical Research 2021
+title: International Medis Awards for Medical Research 2021 - Winner announcement
 location: Ljubljana, Slovenia
 date: 2021-11-25T16:00:00.000Z
 date_end: 2021-11-25T17:00:00.000Z
