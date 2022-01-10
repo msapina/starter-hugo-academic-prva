@@ -34,11 +34,11 @@ item:
 - certificate_url: https://www.ersnet.org/
   date_end: "2021-09-22"
   date_start: "2021-09-20" 
-  description: []
+  description: ""
   organization: European Respiratory Society
-  organization_url: https://www.edx.org
+  organization_url: https://www.ersnet.org/
   title: Paediatric bronchoscopy
-  url: []
+  url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
