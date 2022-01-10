@@ -28,7 +28,7 @@ abstract: >-
 
 
 draft: false
-featured: true
+featured: false
 projects: []
 image:
   filename: featured
