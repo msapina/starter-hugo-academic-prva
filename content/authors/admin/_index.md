@@ -15,12 +15,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/m_sapx
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=NRexaeMAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/matej-%C5%A1apina-90272896/
+    - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Matej-Sapina
 organizations:
   - name: Medical faculty Osijek
     url: http://www.mefos.unios.hr/index.php/hr/
