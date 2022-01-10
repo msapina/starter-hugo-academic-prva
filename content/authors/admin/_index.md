@@ -38,7 +38,10 @@ education:
       year: 2019
     - course: MD
       institution: Medical faculty Osijek
-      year: 2013
+      year: 2014
+      icon: user-md
+      icon_pack: fas
+
 email: sapina.matej@yahoo.com
 superuser: true
 highlight_name: true
