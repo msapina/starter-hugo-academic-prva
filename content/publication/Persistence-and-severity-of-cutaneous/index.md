@@ -1,5 +1,5 @@
 ---
-title: " Persistence and Severity of Cutaneous Manifestations in IgA Vasculitis Is Associated with Development of IgA Vasculitis Nephritis in Children. Dermatology "
+title: " Persistence and Severity of Cutaneous Manifestations in IgA Vasculitis Is Associated with Development of IgA Vasculitis Nephritis in Children "
 publication_types:
   - "2"
 authors:
