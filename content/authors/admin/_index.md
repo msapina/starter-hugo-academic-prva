@@ -21,7 +21,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/matej-%C5%A1apina-90272896/
-    - icon: researchgate
+  - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Matej-Sapina
 organizations:
