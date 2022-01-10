@@ -12,7 +12,7 @@ authors:
   - Šerfezi Josip
   - Adelson David
   - Yearwood John
-#doi: https://doi.org/10.22514/SV133.062017.11
+doi: https://doi.org/10.22514/SV133.062017.11
 publication: Signa vitae: journal for intesive care and emergency medicine. 2017;13(3):52-6.
 abstract: >-
   
